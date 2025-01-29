@@ -22,6 +22,7 @@ export default function Home() {
     return (
         <>
             <Layout headerStyle={2} footerStyle={2}>
+            
                 <Banner />
                 <Services />
                 <About />
@@ -38,7 +39,7 @@ export default function Home() {
                 <Testimonial />
                 {/* <Brand /> */}
                 {/* <Blog /> */}
- 
+
             </Layout>
         </>
     )
