@@ -63,12 +63,7 @@ export default function Project() {
                                     <div className="project-two__img">
                                         <img src="assets/images/project/project-2-1.png" alt=""/>
                                         <div className="project-two__content">
-                                            <div className="project-two__title-box">
-                                                <h5 className="project-two__title"><Link href="project-details">Quality
-                                                        Construction Co</Link>
-                                                </h5>
-                                                <p className="project-two__sub-title">Data Analytics</p>
-                                            </div>
+                                          
                                             <div className="project-two__arrow">
                                                 <Link href="assets/images/project/project-2-1.png" className="img-popup"><span
                                                         className="icon-dabble-arrow-right"></span></Link>
@@ -86,14 +81,9 @@ export default function Project() {
                                     <div className="project-two__img">
                                         <img src="assets/images/project/project-2-2.png" alt=""/>
                                         <div className="project-two__content">
-                                            <div className="project-two__title-box">
-                                                <h5 className="project-two__title"><Link href="project-details">Quality
-                                                        Construction Co</Link>
-                                                </h5>
-                                                <p className="project-two__sub-title">Data Analytics</p>
-                                            </div>
+                                            
                                             <div className="project-two__arrow">
-                                                <Link href="assets/images/project/project-2-2.jpg" className="img-popup"><span
+                                                <Link href="assets/images/project/project-2-2.png" className="img-popup"><span
                                                         className="icon-dabble-arrow-right"></span></Link>
                                             </div>
                                         </div>
@@ -109,12 +99,7 @@ export default function Project() {
                                     <div className="project-two__img">
                                         <img src="assets/images/project/project-2-3.png" alt=""/>
                                         <div className="project-two__content">
-                                            <div className="project-two__title-box">
-                                                <h5 className="project-two__title"><Link href="project-details">Quality
-                                                        Construction Co</Link>
-                                                </h5>
-                                                <p className="project-two__sub-title">Data Analytics</p>
-                                            </div>
+                                         
                                             <div className="project-two__arrow">
                                                 <Link href="assets/images/project/project-2-3.png" className="img-popup"><span
                                                         className="icon-dabble-arrow-right"></span></Link>
@@ -131,12 +116,7 @@ export default function Project() {
                                     <div className="project-two__img">
                                         <img src="assets/images/project/project-2-4.png" alt=""/>
                                         <div className="project-two__content">
-                                            <div className="project-two__title-box">
-                                                <h5 className="project-two__title"><Link href="project-details">Quality
-                                                        Construction Co</Link>
-                                                </h5>
-                                                <p className="project-two__sub-title">Data Analytics</p>
-                                            </div>
+                                           
                                             <div className="project-two__arrow">
                                                 <Link href="assets/images/project/project-2-4.png" className="img-popup"><span
                                                         className="icon-dabble-arrow-right"></span></Link>
@@ -154,12 +134,7 @@ export default function Project() {
                                     <div className="project-two__img">
                                         <img src="assets/images/project/project-2-5.png" alt=""/>
                                         <div className="project-two__content">
-                                            <div className="project-two__title-box">
-                                                <h5 className="project-two__title"><Link href="project-details">Quality
-                                                        Construction Co</Link>
-                                                </h5>
-                                                <p className="project-two__sub-title">Data Analytics</p>
-                                            </div>
+                                            
                                             <div className="project-two__arrow">
                                                 <Link href="assets/images/project/project-2-5.png" className="img-popup"><span
                                                         className="icon-dabble-arrow-right"></span></Link>
@@ -175,12 +150,7 @@ export default function Project() {
                                     <div className="project-two__img">
                                         <img src="assets/images/project/project-2-6.png" alt=""/>
                                         <div className="project-two__content">
-                                            <div className="project-two__title-box">
-                                                <h5 className="project-two__title"><Link href="project-details">Quality
-                                                        Construction Co</Link>
-                                                </h5>
-                                                <p className="project-two__sub-title">Data Analytics</p>
-                                            </div>
+                                           
                                             <div className="project-two__arrow">
                                                 <Link href="assets/images/project/project-2-6.png" className="img-popup"><span
                                                         className="icon-dabble-arrow-right"></span></Link>
@@ -196,14 +166,185 @@ export default function Project() {
                                     <div className="project-two__img">
                                         <img src="assets/images/project/project-2-7.png" alt=""/>
                                         <div className="project-two__content">
-                                            <div className="project-two__title-box">
-                                                <h5 className="project-two__title"><Link href="project-details">Quality
-                                                        Construction Co</Link>
-                                                </h5>
-                                                <p className="project-two__sub-title">Data Analytics</p>
-                                            </div>
+                                            
                                             <div className="project-two__arrow">
                                                 <Link href="assets/images/project/project-2-7.png" className="img-popup"><span
+                                                        className="icon-dabble-arrow-right"></span></Link>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            </SwiperSlide>
+                            <SwiperSlide>
+                            <div className="swiper-slide">
+                                <div className="project-two__single">
+                                    <div className="project-two__img">
+                                        <img src="assets/images/project/project-2-8.png" alt=""/>
+                                        <div className="project-two__content">
+                                           
+                                            <div className="project-two__arrow">
+                                                <Link href="assets/images/project/project-2-8.png" className="img-popup"><span
+                                                        className="icon-dabble-arrow-right"></span></Link>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            </SwiperSlide>
+                            <SwiperSlide>
+                            <div className="swiper-slide">
+                                <div className="project-two__single">
+                                    <div className="project-two__img">
+                                        <img src="assets/images/project/project-2-9.png" alt=""/>
+                                        <div className="project-two__content">
+                                           
+                                            <div className="project-two__arrow">
+                                                <Link href="assets/images/project/project-2-9.png" className="img-popup"><span
+                                                        className="icon-dabble-arrow-right"></span></Link>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            </SwiperSlide>
+                            <SwiperSlide>
+                            <div className="swiper-slide">
+                                <div className="project-two__single">
+                                    <div className="project-two__img">
+                                        <img src="assets/images/project/project-2-10.png" alt=""/>
+                                        <div className="project-two__content">
+                                         
+                                            <div className="project-two__arrow">
+                                                <Link href="assets/images/project/project-2-10.png" className="img-popup"><span
+                                                        className="icon-dabble-arrow-right"></span></Link>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            </SwiperSlide>
+                            <SwiperSlide>
+                            <div className="swiper-slide">
+                                <div className="project-two__single">
+                                    <div className="project-two__img">
+                                        <img src="assets/images/project/project-2-11.png" alt=""/>
+                                        <div className="project-two__content">
+                                           
+                                            <div className="project-two__arrow">
+                                                <Link href="assets/images/project/project-2-11.png" className="img-popup"><span
+                                                        className="icon-dabble-arrow-right"></span></Link>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            </SwiperSlide>
+                            <SwiperSlide>
+                            <div className="swiper-slide">
+                                <div className="project-two__single">
+                                    <div className="project-two__img">
+                                        <img src="assets/images/project/project-2-12.png" alt=""/>
+                                        <div className="project-two__content">
+                                            
+                                            <div className="project-two__arrow">
+                                                <Link href="assets/images/project/project-2-12.png" className="img-popup"><span
+                                                        className="icon-dabble-arrow-right"></span></Link>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            </SwiperSlide>
+                            <SwiperSlide>
+                            <div className="swiper-slide">
+                                <div className="project-two__single">
+                                    <div className="project-two__img">
+                                        <img src="assets/images/project/project-2-13.png" alt=""/>
+                                        <div className="project-two__content">
+                                            
+                                            <div className="project-two__arrow">
+                                                <Link href="assets/images/project/project-2-13.png" className="img-popup"><span
+                                                        className="icon-dabble-arrow-right"></span></Link>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            </SwiperSlide>
+                            <SwiperSlide>
+                            <div className="swiper-slide">
+                                <div className="project-two__single">
+                                    <div className="project-two__img">
+                                        <img src="assets/images/project/project-2-14.png" alt=""/>
+                                        <div className="project-two__content">
+                                           
+                                            <div className="project-two__arrow">
+                                                <Link href="assets/images/project/project-2-14.png" className="img-popup"><span
+                                                        className="icon-dabble-arrow-right"></span></Link>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            </SwiperSlide>
+                            <SwiperSlide>
+                            <div className="swiper-slide">
+                                <div className="project-two__single">
+                                    <div className="project-two__img">
+                                        <img src="assets/images/project/project-2-15.png" alt=""/>
+                                        <div className="project-two__content">
+                                           
+                                            <div className="project-two__arrow">
+                                                <Link href="assets/images/project/project-2-15.png" className="img-popup"><span
+                                                        className="icon-dabble-arrow-right"></span></Link>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            </SwiperSlide>
+                            <SwiperSlide>
+                            <div className="swiper-slide">
+                                <div className="project-two__single">
+                                    <div className="project-two__img">
+                                        <img src="assets/images/project/project-2-16.png" alt=""/>
+                                        <div className="project-two__content">
+                                           
+                                            <div className="project-two__arrow">
+                                                <Link href="assets/images/project/project-2-16.png" className="img-popup"><span
+                                                        className="icon-dabble-arrow-right"></span></Link>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            </SwiperSlide>
+                            <SwiperSlide>
+                            <div className="swiper-slide">
+                                <div className="project-two__single">
+                                    <div className="project-two__img">
+                                        <img src="assets/images/project/project-2-17.png" alt=""/>
+                                        <div className="project-two__content">
+                                           
+                                            <div className="project-two__arrow">
+                                                <Link href="assets/images/project/project-2-17.png" className="img-popup"><span
+                                                        className="icon-dabble-arrow-right"></span></Link>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            </SwiperSlide>
+                            <SwiperSlide>
+                            <div className="swiper-slide">
+                                <div className="project-two__single">
+                                    <div className="project-two__img">
+                                        <img src="assets/images/project/project-2-18.png" alt=""/>
+                                        <div className="project-two__content">
+                                            
+                                            <div className="project-two__arrow">
+                                                <Link href="assets/images/project/project-2-18.png" className="img-popup"><span
                                                         className="icon-dabble-arrow-right"></span></Link>
                                             </div>
                                         </div>
