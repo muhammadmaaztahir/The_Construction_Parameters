@@ -136,7 +136,9 @@ const Footer = () => {
                 <div className="site-footer-two__bottom">
                     <div className="container">
                         <div className="site-footer-two__bottom-inner">
-                            <p className="site-footer-two__bottom-text">© The Construction Parameters 2025 | All Rights Reserved</p>
+                            <p className="site-footer-two__bottom-text">© The Construction Parameters 2025 | <Link target="blank" style={{color: 'white'}} href='https://www.linkedin.com/in/muhammadmaaztahir'>Developed by <span style={{color
+                                : '#EF7416'
+                            }}>Muhammad Maaz Tahir</span></Link></p>
                             <ul className="list-unstyled site-footer-two__bottom-menu">
                                 <li><Link href="/termandcondition">Terms & Condition</Link></li>
                                 <li><Link href="/privacypolicy">Privacy Policy</Link></li>
