@@ -115,7 +115,7 @@ const Footer = () => {
                                                     <span className="icon-arrow-up-2"></span>
                                                 </div>
                                                 <div className="content">
-                                                    <p><Link href="tel:+923365491349">(+92) 336 5491 349</Link></p>
+                                                    <p><Link href="tel:+923142589031">(+92) 314 2589 031</Link></p>
                                                 </div>
                                             </li>
                                             <li>
