@@ -75,7 +75,7 @@ export default function Banner() {
 											</div>
 											<div className="main-slider-two__call-number">
 												<p>Need Help</p>
-												<h5><Link href="tel:+923365491349">(+92) 336 5491 349</Link></h5>
+												<h5><Link href="tel:+923142589031">(+92) 314 2589 031</Link></h5>
 											</div>
 										</div>
 									</div>
