@@ -24,9 +24,9 @@ export default function Header({ scroll, handlePopup, handleMobileMenu }) {
                                         <p>
                                             <Link href="#" onClick={(e) => {
                                                 e.preventDefault();
-                                                window.location.href = "tel:+923365491349";
+                                                window.location.href = "tel:+923142589031";
                                             }}>
-                                                (+92) 336 5491 349
+                                                (+92) 314 2589 031
                                             </Link>
                                         </p>
                                     </div>
